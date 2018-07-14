@@ -1,0 +1,6 @@
+Username,Password,InputTypeForUN,InputTypeForPSW,ErrorMsg
+smitan18@gmail.com,,invalid,valid,"There was a problem
+We cannot find an account with that email address"
+snikhade18@gmail.com,aanikhade,valid,invalid,"There was a problem
+Your password is incorrect"
+snikhade18@gmail.com,aaanikhade,valid,valid,
